@@ -4,3 +4,16 @@
 /Atcrowdfunding-bean/src/test/
 /Atcrowdfunding-potal-api/src/test/
 /Atcrowdfunding-potal-impl/target/
+/.idea/
+/Atcrowdfunding-main/target/
+/Atcrowdfunding-bean/Atcrowdfunding-bean.iml
+/Atcrowdfunding-common/Atcrowdfunding-common.iml
+/Atcrowdfunding-main/Atcrowdfunding-main.iml
+/Atcrowdfunding-manager-api/Atcrowdfunding-manager-api.iml
+/Atcrowdfunding-manager-impl/Atcrowdfunding-manager-impl.iml
+/Atcrowdfunding-potal-api/
+/Atcrowdfunding-potal-impl/Atcrowdfunding-potal-impl.iml
+/Atcrowdfunding-manager-api/target/
+/Atcrowdfunding-manager-impl/target/
+/.gitignore
+/.gitignore
